@@ -20,4 +20,4 @@ Del pensamiento a la ejecución solo hay una pequeña barrera, la voluntad 🚀
 
 
 ---
-![Avatar](https://avatars.githubusercontent.com/u/128490271?v=4)
+![Avatar](https://portafolio-ledex.vercel.app/_next/image?url=%2Fhome-4.png&w=828&q=75)
