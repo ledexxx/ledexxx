@@ -18,6 +18,4 @@ Del pensamiento a la ejecución solo hay una pequeña barrera, la voluntad 🚀
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-
----
-![Avatar](https://portafolio-ledex.vercel.app/_next/image?url=%2Fhome-4.png&w=828&q=75)
+<img width="200" align="right" src="https://portafolio-ledex.vercel.app/_next/image?url=%2Fhome-4.png&w=828&q=75">
